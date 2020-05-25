@@ -1,0 +1,7 @@
+class BB{
+  private String name;
+  private String bb;
+  public void print(){
+  
+  }
+}
